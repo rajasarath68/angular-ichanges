@@ -13,7 +13,7 @@
 <p>welcome to html demo class and written in paragraph using tag
  'p', for breaking paragraph use 'br' tag <br> then it automatically comes to next line</p>
 <hr><hr><hr>
-<marquee bgcolor="yellow"> Rajasarath </marquee>
+<marquee> Rajasarath </marquee>
 <hr>
 <h1><font color="red"> The abbr element </font></h1>
 <h5> <abbr title="Sriram">God</abbr>here</h5>
